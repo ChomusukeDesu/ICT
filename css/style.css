@@ -27,14 +27,12 @@ h5{
     color:cyan;
     -webkit-text-stroke: 0.6px black;
 }
-p{
-}
 .gwapo{
     display: inline-flex;
     border: solid black;
     background-color: rgb(36, 36, 36);
     height: 200px;
-    width: 600px;
+    width: auto;
     text-align: justify;
 }
 .aboutus{
